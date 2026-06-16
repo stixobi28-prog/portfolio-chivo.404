@@ -1,7 +1,7 @@
 # Hello, I'm Mohammad Subam Zahid Iqbal
 <a href="https://www.linkedin.com/in/mohammad-subam-zahid-iqbal-5254792a0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m a recent graduate with a strong interest in IT and cybersecurity. I enjoy working with technology, learning how systems are built and secured, and solving technical issues through hands-on practice. I’ve been building my skills in areas like Windows Server, Active Directory, Linux, and basic security tools, and I’m looking for an entry-level opportunity where I can continue learning and contribute to a real team.
 
 ## Objective
 
