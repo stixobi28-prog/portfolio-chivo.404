@@ -5,7 +5,7 @@ I’m a recent graduate with a strong interest in IT and cybersecurity. I enjoy 
 
 ## Objective
 
-My journey in cybersecurity has led me to develop a passion for security, and I am now eager to excel into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cybersecurity has helped me develop a strong interest in security, and I’m now looking to excel further in this field and continue building my skills across different areas of cybersecurity
 
 ## Documentations of Learned Skills
 
