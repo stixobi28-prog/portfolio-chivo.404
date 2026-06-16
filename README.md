@@ -68,6 +68,13 @@ My journey in cybersecurity has helped me develop a strong interest in security,
     </a>
 </div>
 
+# Ongoing Certification & Skill I'm Learning
+<div>
+    <a href="https://tryhackme.com/paths" target="_blank">
+        <img src="https://img.shields.io/badge/-TryHackMe_Learning_Paths-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+    </a>
+</div>
+
 ## My Projects (Skills-Based Experience)
 
 * Active Directory Administration
