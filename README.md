@@ -1,7 +1,16 @@
 # Hello, I'm Mohammad Subam Zahid Iqbal
 <a href="https://www.linkedin.com/in/mohammad-subam-zahid-iqbal-5254792a0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a soon-to-be graduate with a strong interest in IT and cybersecurity. I enjoy working with technology, learning how systems are built and secured, and solving technical issues through hands-on practice. I’ve been building my skills in areas like Windows Server, Active Directory, Linux, and basic security tools, and I’m looking for an entry-level opportunity where I can continue learning and contribute to a real team.
+I am an soon-to-be graduate with a strong passion for Information Technology (IT) and cybersecurity. I have developed a keen interest in understanding how systems are built and secured, and I enjoy solving technical issues through hands-on practice. My skill set includes foundational knowledge in Windows Server, Active Directory, Linux, and basic security tools.
+
+I am currently seeking an entry-level position where I can continue to learn and contribute to a dynamic team. With a growing desire to identify vulnerabilities and secure systems, I aim to leverage my skills in cybersecurity.
+
+Here are some key areas of focus:
+
+Vulnerability Assessment: Identifying potential security weaknesses in networks and systems.
+Security Tools: Utilizing basic security tools for proactive threat detection and prevention.
+Technical Skills: Experienced in both Windows Server and Linux environments, with a solid understanding of Active Directory.
+My goal is to work with a team that values continuous learning and innovation. I am eager to contribute my skills and enthusiasm to real-world projects and challenges in the field of cybersecurity.
 
 ## Objective
 
@@ -65,13 +74,6 @@ My journey in cybersecurity has helped me develop a strong interest in security,
 
 <a href="https://www.coursera.org/account/accomplishments/verify/TO9I2UM0LAQD" target="_blank">
         <img src="https://img.shields.io/badge/-Security_Operations_Center-FF6F00?&style=for-the-badge&logo=coursera&logoColor=white" />
-    </a>
-</div>
-
-# Ongoing Certification & Skill I'm Learning
-<div>
-    <a href="https://tryhackme.com/paths" target="_blank">
-        <img src="https://img.shields.io/badge/-TryHackMe_Learning_Paths-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
     </a>
 </div>
 
